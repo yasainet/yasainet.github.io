@@ -14,19 +14,74 @@
     <link rel="alternate" href="http://www.example.com/2016/05/17/hello/"/>
     <id>http://www.example.com/2016/05/17/hello/</id>
     <published>2016-05-17T09:00:00+09:00</published>
-    <updated>2016-05-17T14:51:54+09:00</updated>
+    <updated>2016-05-17T14:56:47+09:00</updated>
     <author>
       <name>Middleman</name>
     </author>
-    <summary type="html">do you know what I mean?
+    <summary type="html">h1
 
-let it go
+h2
+
+h3
+
+h4
+
+h5
+
+h6
+if hoge &amp;gt;= 100 then
+  p 'hoge'
+end
 
 
-quoute
+$ cd /vagrant/.middleman
+
+hello
+hello
+~~hello~~
 
 
-thank you!
+list
+list
+
+
+list
+list
+list
+list
+
+
+list
+list
+
+
+
+quoter
+
+
+
+
+Markdown: Qiita
+
+
+
+
+Left align
+Right align
+Center align
+
+
+
+
+This
+This
+This
+
+
+column
+column
+
+
 </summary>
   </entry>
 </feed>
