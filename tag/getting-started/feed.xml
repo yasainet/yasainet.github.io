@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Middleman: Getting Started</title>
+  <title>yasainet: Getting Started</title>
   <subtitle>Posts tagged with Getting Started</subtitle>
-  <id>http://www.example.com</id>
-  <link href="http://www.example.com"/>
-  <link href="http://www.example.com/tag/getting-started/feed.xml" rel="self"/>
+  <id>http://yasainet.github.io/</id>
+  <link href="http://yasainet.github.io/"/>
+  <link href="http://yasainet.github.io/tag/getting-started/feed.xml" rel="self"/>
   <updated>2013-10-26T09:00:00+09:00</updated>
   <author>
     <name>Middleman</name>
   </author>
   <entry>
     <title>Welcome to Ghost</title>
-    <link rel="alternate" href="http://www.example.com/2013/10/26/welcome-to-ghost/"/>
-    <id>http://www.example.com/2013/10/26/welcome-to-ghost/</id>
+    <link rel="alternate" href="http://yasainet.github.io/2013/10/26/welcome-to-ghost/"/>
+    <id>http://yasainet.github.io/2013/10/26/welcome-to-ghost/</id>
     <published>2013-10-26T09:00:00+09:00</published>
     <updated>2016-05-17T14:36:46+09:00</updated>
     <author>

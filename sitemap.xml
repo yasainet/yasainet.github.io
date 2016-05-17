@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.example.com/2013/10/26/welcome-to-ghost/index.html</loc>
+    <loc>http://yasainet.github.io/2013/10/26/welcome-to-ghost/index.html</loc>
     <lastmod>2016-05-17T14:36:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.example.com/2016/05/17/hello/index.html</loc>
+    <loc>http://yasainet.github.io/2016/05/17/hello/index.html</loc>
     <lastmod>2016-05-17T14:58:32+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.example.com/index.html</loc>
-    <lastmod>2016-05-17T14:41:46+09:00</lastmod>
+    <loc>http://yasainet.github.io/index.html</loc>
+    <lastmod>2016-05-17T15:16:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.example.com/author/middleman/index.html</loc>
-    <lastmod>2016-05-17T14:41:46+09:00</lastmod>
+    <loc>http://yasainet.github.io/author/middleman/index.html</loc>
+    <lastmod>2016-05-17T15:16:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.example.com/tag/getting-started/index.html</loc>
-    <lastmod>2016-05-17T14:41:46+09:00</lastmod>
+    <loc>http://yasainet.github.io/tag/getting-started/index.html</loc>
+    <lastmod>2016-05-17T15:16:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.example.com/tag/sample/index.html</loc>
-    <lastmod>2016-05-17T14:41:46+09:00</lastmod>
+    <loc>http://yasainet.github.io/tag/sample/index.html</loc>
+    <lastmod>2016-05-17T15:16:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
