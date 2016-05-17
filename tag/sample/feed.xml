@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Middleman: sample</title>
+  <subtitle>Posts tagged with sample</subtitle>
+  <id>http://www.example.com</id>
+  <link href="http://www.example.com"/>
+  <link href="http://www.example.com/tag/sample/feed.xml" rel="self"/>
+  <updated>2016-05-17T09:00:00+09:00</updated>
+  <author>
+    <name>Middleman</name>
+  </author>
+  <entry>
+    <title>hello</title>
+    <link rel="alternate" href="http://www.example.com/2016/05/17/hello/"/>
+    <id>http://www.example.com/2016/05/17/hello/</id>
+    <published>2016-05-17T09:00:00+09:00</published>
+    <updated>2016-05-17T14:51:54+09:00</updated>
+    <author>
+      <name>Middleman</name>
+    </author>
+    <summary type="html">do you know what I mean?
+
+let it go
+
+
+quoute
+
+
+thank you!
+</summary>
+  </entry>
+</feed>

@@ -5,10 +5,30 @@
   <id>http://www.example.com</id>
   <link href="http://www.example.com"/>
   <link href="http://www.example.com/feed.xml" rel="self"/>
-  <updated>2013-10-26T09:00:00+09:00</updated>
+  <updated>2016-05-17T09:00:00+09:00</updated>
   <author>
     <name>Middleman</name>
   </author>
+  <entry>
+    <title>hello</title>
+    <link rel="alternate" href="http://www.example.com/2016/05/17/hello/"/>
+    <id>http://www.example.com/2016/05/17/hello/</id>
+    <published>2016-05-17T09:00:00+09:00</published>
+    <updated>2016-05-17T14:51:54+09:00</updated>
+    <author>
+      <name>Middleman</name>
+    </author>
+    <summary type="html">do you know what I mean?
+
+let it go
+
+
+quoute
+
+
+thank you!
+</summary>
+  </entry>
   <entry>
     <title>Welcome to Ghost</title>
     <link rel="alternate" href="http://www.example.com/2013/10/26/welcome-to-ghost/"/>
